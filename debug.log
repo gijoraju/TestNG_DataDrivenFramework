@@ -1,0 +1,30 @@
+[0624/200221.476:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0624/200221.584:ERROR:exception_snapshot_win.cc(98)] thread ID 8708 not found in process
+[0624/200221.434:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0624/200221.476:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0624/200221.550:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0624/200221.513:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0624/200221.531:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0624/200221.494:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0624/200221.494:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0624/200221.588:ERROR:exception_snapshot_win.cc(98)] thread ID 8720 not found in process
+[0624/200221.588:ERROR:exception_snapshot_win.cc(98)] thread ID 8728 not found in process
+[0624/200221.588:ERROR:exception_snapshot_win.cc(98)] thread ID 8612 not found in process
+[0624/200221.588:ERROR:exception_snapshot_win.cc(98)] thread ID 8600 not found in process
+[0624/200221.588:ERROR:exception_snapshot_win.cc(98)] thread ID 8712 not found in process
+[0624/200221.588:ERROR:exception_snapshot_win.cc(98)] thread ID 8608 not found in process
+[0624/200221.589:ERROR:exception_snapshot_win.cc(98)] thread ID 8716 not found in process
+[0624/200221.442:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0624/200221.593:ERROR:exception_snapshot_win.cc(98)] thread ID 8604 not found in process
+[0624/200221.488:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0624/200221.602:ERROR:exception_snapshot_win.cc(98)] thread ID 8732 not found in process
+[0624/200221.603:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0624/200221.705:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0624/200221.706:ERROR:exception_snapshot_win.cc(98)] thread ID 8812 not found in process
+[0624/200221.714:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0624/200221.714:ERROR:exception_snapshot_win.cc(98)] thread ID 8832 not found in process
+[0624/200221.715:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0624/200221.715:ERROR:exception_snapshot_win.cc(98)] thread ID 8828 not found in process
+[0624/200221.736:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0624/200221.736:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0624/200221.736:ERROR:exception_snapshot_win.cc(98)] thread ID 8824 not found in process
