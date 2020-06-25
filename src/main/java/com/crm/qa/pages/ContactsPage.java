@@ -29,6 +29,7 @@ public class ContactsPage extends TestBase {
 	
 	public void selectAddressTab() {
 		addressText1.click();
+		System.out.println("This is added to check GIT Jenkins integration");
 		
 	}
 	
